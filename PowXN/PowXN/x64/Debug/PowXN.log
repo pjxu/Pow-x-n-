@@ -1,0 +1,6 @@
+﻿  Run.cpp
+  AlgoExec.cpp
+  Generating Code...
+d:\repo\powxn\src\algoexec.cpp(31): warning C4715: 'POW::PowAlgorithms::Run': not all control paths return a value
+  PowXN.vcxproj -> D:\Repo\PowXN\x64\Debug\PowXN.exe
+  PowXN.vcxproj -> D:\Repo\PowXN\x64\Debug\PowXN.pdb (Full PDB)
